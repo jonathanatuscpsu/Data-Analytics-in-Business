@@ -1,4 +1,3 @@
-## Course Description
 Today businesses, consumers, communities and societies create or manage massive amounts of data as a by-product of their activities. Companies in every industry are using data analytics to add to, or replace, intuition and guesswork in their decision-making. As a result, business managers can use their data troves and analytical skills to discover new patterns and insights, and/or to run controlled experiments to test various hypotheses. 
 
 This course prepares students to understand business analytics and become leaders in these areas in business organizations. This course teaches the scientific process of transforming data into insights for making better business decisions. It covers the methodologies, issues, and challenges related to analyzing business data. 
