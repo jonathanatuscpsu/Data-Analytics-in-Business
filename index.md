@@ -31,7 +31,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |        [R lab-IV](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)  |  •	R lab    (Basic tools For forecasting-I)|  
 |      [R lab-VI](BANA4090_Week5_Lab6_Data-Examples_German-Forecasts.html)   |     •	R lab      (Basic tools For forecasting-II)|          
 |   [R lab-VII](BANA4090_Week7_Lab7.html)  |•	R lab	(Evaluation of model performance-I)|
-| **Midterm Exam**         | ** Midterm Exam (week 9 )**          |
+| **Midterm Exam**         | **Midterm Exam (week 9)**          |
 | **3**         | **Module 3 – Marketing & Advertising (weeks 10-12)**          |
 |    [ARIMA-Part I](Ch4-1.pdf)                    |•	ARIMA models-I|
 |     [ARIMA-Part II](Ch4-2.pdf)                 |•	ARIMA models-II|
