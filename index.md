@@ -20,7 +20,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
 | **1**         | **Module 1 – Practical Time Series Analysis (weeks 1-3)**          |
-|      [Welcome Lecture and Notes](Welcome.pdf)                 | •	Why is time series analysis and forecasting important?             |
+|      [Welcome Lecture and Notes](Welcome.pdf)                 | •	Data-Driven Decision Making: Unleashing the Power of Business      |
 |             [Practical Time Series Analysis](W2.pdf)     | •	How to approach a forecasting problem 
 |                [R lab-I](BANA4090_W1_1_Intro_R.html)                  | •	Visualization and exploration of time series data |
 |           [R lab-II](BANA4090_W2_Visualizing-Time-Series-Data.html)           | •		Wrangling with time series objects|
