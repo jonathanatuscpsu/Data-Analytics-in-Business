@@ -19,16 +19,16 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
-| **1**         | **Module 1 – Basics of Statistics and Regression (weeks 1-5)**          |
-|                    | •	 [Linear Regression: Simple and Multiple Regression](Welcome.pdf)       |
-|               | •    [Indicator Variables and Interaction Terms](W2.pdf)
-|                           | •	    [Nonlinear Transformations and Log Models](BANA4090_W1_1_Intro_R.html)    |
-|                     | •		[Logistic Regression: Customer Default Example](BANA4090_W2_Visualizing-Time-Series-Data.html) |
-|                        |•	  [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](W3.html)|
-| **2**         | **Module 2 – Finance & Investments (weeks 6-8)**          |
-|                        | • [Introduction, and Measuring Risk and Return](Ch3-1.pdf)
-|      [Measuring Risk Adjusted Performance](Ch3-2.pdf)                     |•	Forecasting process
-|        [Factor Investing](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)  |  •	R lab    (Basic tools For forecasting-I)|  
+| **Module 1 – Basics of Statistics and Regression (weeks 1-5)**         | ****          |
+|                    | 	 [Linear Regression: Simple and Multiple Regression](Welcome.pdf)       |
+|               |    [Indicator Variables and Interaction Terms](W2.pdf)
+|                           |	    [Nonlinear Transformations and Log Models](BANA4090_W1_1_Intro_R.html)    |
+|                     		[Logistic Regression: Customer Default Example](BANA4090_W2_Visualizing-Time-Series-Data.html) |
+|                        |	  [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](W3.html)|
+| **Module 2 – Finance & Investments (weeks 6-8)**         | ****          |
+|                        |  [Introduction, and Measuring Risk and Return](Ch3-1.pdf)
+|                        | [Measuring Risk Adjusted Performance](Ch3-2.pdf)  
+|          |  [Factor Investing](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)|  
 | **Midterm Exam**         | **Midterm Exam (week 9)**          |
 | **3**         | **Module 3 – Marketing & Advertising (weeks 10-12)**          |
 |    [Marketing & Advertising: Traditional and Digital](Ch4-1.pdf)                    |•	ARIMA models-I|
