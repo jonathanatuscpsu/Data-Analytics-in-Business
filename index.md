@@ -29,7 +29,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |                        |  [Introduction, and Measuring Risk and Return](Ch3-1.pdf)
 |                        | [Measuring Risk Adjusted Performance](Ch3-2.pdf)  
 |          |  [Factor Investing](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)|  
-| **Midterm Exam (week 9)**                  |
+| **Midterm Exam (week 9)**                 
 | **Module 3 – (weeks 10-12)**         |       **Marketing & Advertising**   |
 |                     |  [Marketing & Advertising: Traditional and Digital](Ch4-1.pdf) |
 |                    |[Implementing Integrated Digital Marketing](Ch4-2.pdf)  |
@@ -39,4 +39,4 @@ Communication Policy: Students are encouraged to contact me anytime via email or
  |  |  [Statistical Process Control](BANA4090_Week12_Lab11.html) |
  |     |[Forecasting Demand](Week13.html)|
   |    |[Inventory Management]( Week14.html)|
-  | **Final Exam**         | **Final Exam (week 16)**          |
+  | **Final Exam (week 16)**          |
