@@ -19,13 +19,13 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
-| **1**         | **Module 1 – Practical Time Series Analysis (weeks 1-3)**          |
+| **1**         | **Module 1 – Basics of Statistics and Regression (weeks 1-5)**          |
 |      [Welcome Lecture and Notes](Welcome.pdf)                 | •	Data-Driven Decision Making: Unleashing the Power of Business      |
 |             [Practical Time Series Analysis](W2.pdf)     | •	How to approach a forecasting problem 
 |                [R lab-I](BANA4090_W1_1_Intro_R.html)                  | •	Visualization and exploration of time series data |
 |           [R lab-II](BANA4090_W2_Visualizing-Time-Series-Data.html)           | •		Wrangling with time series objects|
 |              [R lab-III](W3.html)            |•	Features of time series data
-| **2**         | **Module 2 – Forecasting Basics (weeks 4-6)**          |
+| **2**         | **Module 2 – Finance & Investments (weeks 6-8)**          |
 |     [Forecasting Basics-Part I](Ch3-1.pdf)                    | •Four simple forecasting models
 |      [Forecasting Basics-Part II](Ch3-2.pdf)                     |•	Forecasting process
 |        [R lab-IV](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)  |  •	R lab    (Basic tools For forecasting-I)|  
