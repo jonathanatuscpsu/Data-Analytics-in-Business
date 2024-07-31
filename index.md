@@ -18,7 +18,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 ## Lecture materials (slides) and code demonstrating the relevant methods
 
 | Module        |                   Description                                                         |
-|:----------------------------------------------------------:|:--------------------------------------------------------------------|
+|:----------------------------------------------------------------------------:|:--------------------------------------------------------------------|
 | **Module 1 (weeks 1-5)**         |      **Basics of Statistics and Regression**    |
 |                    | 	 [Linear Regression: Simple and Multiple Regression](Welcome.pdf)       |
 |                     |    [Indicator Variables and Interaction Terms](W2.pdf)
