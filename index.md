@@ -15,7 +15,7 @@ Students will learn through practical application, using business analytics algo
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
 
-## Lecture materials (slides) and code demonstrating the relevant methods.
+## Lecture materials (slides) and code demonstrating the relevant methods
 
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
