@@ -1,4 +1,4 @@
-# Data-Analytics-in-Business
+# Welcome to Data Analytics in Business (MGT 6203)!
 
 Today, businesses, consumers, communities, and societies generate vast amounts of data through their activities. Companies across all industries are increasingly relying on data analytics to enhance or replace intuition and guesswork in decision-making. This shift allows business managers to leverage their data and analytical skills to uncover new patterns and insights or conduct controlled experiments to test hypotheses.
 
