@@ -19,22 +19,22 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
-| **Module 1 – Basics of Statistics and Regression (weeks 1-5)**         |         |
+| **Module 1 – (weeks 1-5)**         |      Basics of Statistics and Regression    |
 |                    | 	 [Linear Regression: Simple and Multiple Regression](Welcome.pdf)       |
 |               |    [Indicator Variables and Interaction Terms](W2.pdf)
 |                           |	    [Nonlinear Transformations and Log Models](BANA4090_W1_1_Intro_R.html)    |
 |                     		[Logistic Regression: Customer Default Example](BANA4090_W2_Visualizing-Time-Series-Data.html) |
 |                        |	  [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](W3.html)|
-| **Module 2 – Finance & Investments (weeks 6-8)**         |          |
+| **Module 2 –  (weeks 6-8)**         |    Finance & Investments      |
 |                        |  [Introduction, and Measuring Risk and Return](Ch3-1.pdf)
 |                        | [Measuring Risk Adjusted Performance](Ch3-2.pdf)  
 |          |  [Factor Investing](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)|  
 | **Midterm Exam**         | **Midterm Exam (week 9)**          |
-| **Module 3 – Marketing & Advertising (weeks 10-12)**         |         |
+| **Module 3 – (weeks 10-12)**         |       Marketing & Advertising   |
 |                     |  [Marketing & Advertising: Traditional and Digital](Ch4-1.pdf) |
 |                    |[Implementing Integrated Digital Marketing](Ch4-2.pdf)  |
 |                       |  [Introduction to Predictive Marketing Across Channels](Ch4-3.pdf) |
-| **4**         | **Module 4 – Operation Management / Logistics  (weeks 13-15)**          |        
+| **Module 4 **  (weeks 13-15)         | **Operation Management / Logistics **          |        
 |                    | [Introduction and Managing Queues](Ch5-1.pdf)    |
  |  |  [Statistical Process Control](BANA4090_Week12_Lab11.html) |
  |     |[Forecasting Demand](Week13.html)|
