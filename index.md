@@ -20,29 +20,23 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
 | **1**         | **Module 1 – Basics of Statistics and Regression (weeks 1-5)**          |
-|      [Welcome Lecture and Notes](Welcome.pdf)                 | •	Data-Driven Decision Making: Unleashing the Power of Business      |
-|             [Practical Time Series Analysis](W2.pdf)     | •	How to approach a forecasting problem 
-|                [R lab-I](BANA4090_W1_1_Intro_R.html)                  | •	Visualization and exploration of time series data |
-|           [R lab-II](BANA4090_W2_Visualizing-Time-Series-Data.html)           | •		Wrangling with time series objects|
-|              [R lab-III](W3.html)            |•	Features of time series data
+|      [Linear Regression: Simple and Multiple Regression](Welcome.pdf)                 | •	Data-Driven Decision Making: Unleashing the Power of Business      |
+|             [Indicator Variables and Interaction Terms](W2.pdf)     | •	How to approach a forecasting problem 
+|                [Nonlinear Transformations and Log Models](BANA4090_W1_1_Intro_R.html)                  | •	Visualization and exploration of time series data |
+|           [Logistic Regression: Customer Default Example](BANA4090_W2_Visualizing-Time-Series-Data.html)           | •		Wrangling with time series objects|
+|              [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](W3.html)            |•	Features of time series data
 | **2**         | **Module 2 – Finance & Investments (weeks 6-8)**          |
-|     [Forecasting Basics-Part I](Ch3-1.pdf)                    | •Four simple forecasting models
-|      [Forecasting Basics-Part II](Ch3-2.pdf)                     |•	Forecasting process
-|        [R lab-IV](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)  |  •	R lab    (Basic tools For forecasting-I)|  
-|      [R lab-VI](BANA4090_Week5_Lab6_Data-Examples_German-Forecasts.html)   |     •	R lab      (Basic tools For forecasting-II)|          
-|   [R lab-VII](BANA4090_Week7_Lab7.html)  |•	R lab	(Evaluation of model performance-I)|
+|     [Introduction, and Measuring Risk and Return](Ch3-1.pdf)                    | •Four simple forecasting models
+|      [Measuring Risk Adjusted Performance](Ch3-2.pdf)                     |•	Forecasting process
+|        [Factor Investing](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)  |  •	R lab    (Basic tools For forecasting-I)|  
 | **Midterm Exam**         | **Midterm Exam (week 9)**          |
 | **3**         | **Module 3 – Marketing & Advertising (weeks 10-12)**          |
-|    [ARIMA-Part I](Ch4-1.pdf)                    |•	ARIMA models-I|
-|     [ARIMA-Part II](Ch4-2.pdf)                 |•	ARIMA models-II|
-|    [ARIMA-Part III](Ch4-3.pdf)                      |•	ARIMA models-III|
-|    [ARIMA-Part IV](Ch4-4.pdf)                      |•	Seasonal ARIMA models|
-|   [R lab-VIII](BANA4090_Week8_Lab8.html) |•	R lab	(Evaluation of model performance-II)|
- |   [R lab-IX](BANA4090_Week9_Lab9.html)  |•	R lab (ARIMA-I)|
- |   [R lab-X]( BANA4090_Week11_Lab10.html)  |•	R lab (ARIMA-II)|
+|    [Marketing & Advertising: Traditional and Digital](Ch4-1.pdf)                    |•	ARIMA models-I|
+|     [Implementing Integrated Digital Marketing](Ch4-2.pdf)                 |•	ARIMA models-II|
+|    [Introduction to Predictive Marketing Across Channels](Ch4-3.pdf)                      |•	ARIMA models-III|
 | **4**         | **Module 4 – Operation Management / Logistics  (weeks 13-15)**          |        
-|     [Additional Topics](Ch5-1.pdf)                    |•	Exponential smoothing-I|
- |   [R lab-XI](BANA4090_Week12_Lab11.html)  |• R lab (Simple Exponential Smoothing)|
- |   [R lab-XII](Week13.html)  |•	R lab (Holt's Method)|
-  |  [R lab-XIII]( Week14.html)  |•	R lab (Holt-Winter Method)|
+|     [Introduction and Managing Queues](Ch5-1.pdf)                    |•	Exponential smoothing-I|
+ |   [Statistical Process Control](BANA4090_Week12_Lab11.html)  |• R lab (Simple Exponential Smoothing)|
+ |   [Forecasting Demand](Week13.html)  |•	R lab (Holt's Method)|
+  |  [Inventory Management]( Week14.html)  |•	R lab (Holt-Winter Method)|
   | **Final Exam**         | **Final Exam (week 16)**          |
