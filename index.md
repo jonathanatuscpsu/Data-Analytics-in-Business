@@ -20,8 +20,8 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | Module        |                   Description                                                         |
 |:----------------------------------------------------------------------------:|:--------------------------------------------------------------------|
 | **Module 1 (weeks 1-5)**         |      **Basics of Statistics and Regression**    |
-|                    | 	 [Linear Regression: Simple and Multiple Regression]      |
-|                     |    [Indicator Variables and Interaction Terms]
+|                    | 	 [Linear Regression: Simple and Multiple Regression(BANA4090_W1_1_Intro_R.html)]      |
+|                     |    [Indicator Variables and Interaction Terms](BANA4090_W1_1_Intro_R.html)
 |                           |	    [Nonlinear Transformations and Log Models](BANA4090_W1_1_Intro_R.html)    |
 |                     	|	[Logistic Regression: Customer Default Example](BANA4090_W2_Visualizing-Time-Series-Data.html) |
 |                        |	  [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](W3.html)|
