@@ -40,8 +40,9 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |   [R lab-VIII](BANA4090_Week8_Lab8.html) |•	R lab	(Evaluation of model performance-II)|
  |   [R lab-IX](BANA4090_Week9_Lab9.html)  |•	R lab (ARIMA-I)|
  |   [R lab-X]( BANA4090_Week11_Lab10.html)  |•	R lab (ARIMA-II)|
-| **4**         | **Module 4 – Operation Management / Logistics  (weeks 13-16)**          |        
+| **4**         | **Module 4 – Operation Management / Logistics  (weeks 13-15)**          |        
 |     [Additional Topics](Ch5-1.pdf)                    |•	Exponential smoothing-I|
  |   [R lab-XI](BANA4090_Week12_Lab11.html)  |• R lab (Simple Exponential Smoothing)|
  |   [R lab-XII](Week13.html)  |•	R lab (Holt's Method)|
   |  [R lab-XIII]( Week14.html)  |•	R lab (Holt-Winter Method)|
+  | **Final Exam**         | **Final Exam (week 16)**          |
