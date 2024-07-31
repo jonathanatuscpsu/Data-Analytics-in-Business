@@ -20,13 +20,13 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
 | **1**         | **Module 1 – Basics of Statistics and Regression (weeks 1-5)**          |
-|      [Linear Regression: Simple and Multiple Regression](Welcome.pdf)                 | •	Data-Driven Decision Making: Unleashing the Power of Business      |
-|             [Indicator Variables and Interaction Terms](W2.pdf)     | •	How to approach a forecasting problem 
-|                [Nonlinear Transformations and Log Models](BANA4090_W1_1_Intro_R.html)                  | •	Visualization and exploration of time series data |
-|           [Logistic Regression: Customer Default Example](BANA4090_W2_Visualizing-Time-Series-Data.html)           | •		Wrangling with time series objects|
-|              [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](W3.html)            |•	Features of time series data
+|                    | •	 [Linear Regression: Simple and Multiple Regression](Welcome.pdf)       |
+|               | •    [Indicator Variables and Interaction Terms](W2.pdf)
+|                           | •	    [Nonlinear Transformations and Log Models](BANA4090_W1_1_Intro_R.html)    |
+|                     | •		[Logistic Regression: Customer Default Example](BANA4090_W2_Visualizing-Time-Series-Data.html) |
+|                        |•	  [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](W3.html)|
 | **2**         | **Module 2 – Finance & Investments (weeks 6-8)**          |
-|     [Introduction, and Measuring Risk and Return](Ch3-1.pdf)                    | •Four simple forecasting models
+|                        | • [Introduction, and Measuring Risk and Return](Ch3-1.pdf)
 |      [Measuring Risk Adjusted Performance](Ch3-2.pdf)                     |•	Forecasting process
 |        [Factor Investing](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)  |  •	R lab    (Basic tools For forecasting-I)|  
 | **Midterm Exam**         | **Midterm Exam (week 9)**          |
