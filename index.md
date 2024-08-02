@@ -20,23 +20,23 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | Module                                                               |                   Description                                                         |
 |:-------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------|
 | **Module 1 (weeks 1-5)**         |      **Basics of Statistics and Regression**    |
-|                    | 	 [Linear Regression: Simple and Multiple Regression] |
-|                     |    [Indicator Variables and Interaction Terms](BANA4090_W1_1_Intro_R.html)
-|                           |	    [Nonlinear Transformations and Log Models](BANA4090_W1_1_Intro_R.html)    |
-|                     	|	[Logistic Regression: Customer Default Example](BANA4090_W2_Visualizing-Time-Series-Data.html) |
-|                        |	  [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](W3.html)|
+|                    | 	 [Linear Regression: Simple and Multiple Regression](Week1.pdf) |
+|                     |    [Indicator Variables and Interaction Terms](Week2.pdf)
+|                           |	    [Nonlinear Transformations and Log Models](Week3.pdf)   |
+|                     	|	[Logistic Regression: Customer Default Example](Week4.pdf) |
+|                        |	  [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](Week5.pdf)|
 | **Module 2 (weeks 6-8)**         |    **Finance & Investments**      |
-|                        |  [Introduction, and Measuring Risk and Return](Ch3-1.pdf)
-|                        | [Measuring Risk Adjusted Performance](Ch3-2.pdf)  
-|          |  [Factor Investing](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)|  
+|                        |  [Introduction, and Measuring Risk and Return](Week6.pdf)
+|                        | [Measuring Risk Adjusted Performance](Week7.pdf)
+|          |  [Factor Investing](Week8.pdf)|  
 | **Midterm Exam (week 9)**                 
 | **Module 3 (weeks 10-12)**         |       **Marketing & Advertising**   |
-|                     |  [Marketing & Advertising: Traditional and Digital](Ch4-1.pdf) |
-|                    |[Implementing Integrated Digital Marketing](Ch4-2.pdf)  |
-|                       |  [Introduction to Predictive Marketing Across Channels](Ch4-3.pdf) |
+|                     |  [Marketing & Advertising: Traditional and Digital](Week9.pdf) |
+|                    |[Implementing Integrated Digital Marketing](Week10.pdf)|
+|                       |  [Introduction to Predictive Marketing Across Channels](Week11.pdf)|
 | **Module 4 (weeks 13-15)**          | **Operation Management / Logistics**          |        
-|                    | [Introduction and Managing Queues](Ch5-1.pdf)    |
- |  |  [Statistical Process Control](BANA4090_Week12_Lab11.html) |
- |     |[Forecasting Demand](Week13.html)|
-  |    |[Inventory Management]( Week14.html)|
+|                    | [Introduction and Managing Queues](Week12.pdf)|
+ |  |  [Statistical Process Control](Week13.pdf) |
+ |     |[Forecasting Demand](Week14.pdf)|
+  |    |[Inventory Management](Week15.pdf)|
   | **Final Exam (week 16)**          |
