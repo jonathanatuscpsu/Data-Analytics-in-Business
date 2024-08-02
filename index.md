@@ -15,12 +15,12 @@ Students will learn through practical application, using business analytics algo
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
 
- Cohort from 2024 Fall (coming soon!)
- Cohort from 2024 Summer
+ - Cohort from 2024 Fall (coming soon!)
+ - Cohort from 2024 Summer
     * [Cohort from 2024 Summer](list-24-Summer.html)
- Cohort from 2024 Spring
+ - Cohort from 2024 Spring
     * [Cohort from 2024 Spring](list-24-Spring.html)
- Cohort from 2023 Fall
+ - Cohort from 2023 Fall
 
   
 
