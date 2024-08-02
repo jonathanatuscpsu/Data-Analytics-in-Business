@@ -16,6 +16,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 
  - Cohort from 2024 Fall (coming soon!)
+    * [Students who shared their LinkedIn profiles](list-24-Fall.html)
  - Cohort from 2024 Summer
     * [Students who shared their LinkedIn profiles](list-24-Summer.html)
  - Cohort from 2024 Spring
