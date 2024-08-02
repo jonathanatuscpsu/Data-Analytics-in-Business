@@ -21,6 +21,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
  - Cohort from 2024 Spring
     * [Cohort from 2024 Spring](list-24-Spring.html)
  - Cohort from 2023 Fall
+    * [Cohort from 2023 Fall](list-23-Fall.html)
 
   
 
