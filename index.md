@@ -34,22 +34,22 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 | Module                                                               |                   Description                                                         |
 |:-------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------|
-| **Module 1 (weeks 1-5)**         |      **Basics of Statistics and Regression**    |
+| **Module 1 (weeks 1-5)**         |      **Basics of Statistics and Regression - Covers foundational statistical concepts and regression techniques**    |
 |                    | 	 [Linear Regression: Simple and Multiple Regression](Week1.pdf), [R and Rstudio 101](R101.pdf) |
 |                     |    [Indicator Variables and Interaction Terms](Week2.pdf)
 |                           |	    [Nonlinear Transformations and Log Models](Week3.pdf)   |
 |                     	|	[Logistic Regression: Customer Default Example](Week4.pdf) |
 |                        |	  [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](Week5.pdf)|
-| **Module 2 (weeks 6-8)**         |    **Finance & Investments**      |
+| **Module 2 (weeks 6-8)**         |    **Finance & Investments- Explores financial markets, investment strategies, and risk management**      |
 |                        |  [Introduction, and Measuring Risk and Return](Week6.pdf)
 |                        | [Measuring Risk Adjusted Performance](Week7.pdf)
 |          |  [Factor Investing](Week8.pdf)|  
 | **Midterm Exam (week 9)**                 
-| **Module 3 (weeks 10-12)**         |       **Marketing & Advertising**   |
+| **Module 3 (weeks 10-12)**         |       **Marketing & Advertising - Focuses on marketing strategies, consumer behavior, and digital advertising**   |
 |                     |  [Marketing & Advertising: Traditional and Digital](Week9.pdf) |
 |                    |[Implementing Integrated Digital Marketing](Week10.pdf)|
 |                       |  [Introduction to Predictive Marketing Across Channels](Week11.pdf)|
-| **Module 4 (weeks 13-15)**          | **Operation Management / Logistics**          |        
+| **Module 4 (weeks 13-15)**          | **Operation Management / Logistics- Discusses supply chain management, logistics, and operational efficiencies**          |        
 |                    | [Introduction and Managing Queues](Week12.pdf)|
  |  |  [Statistical Process Control](Week13.pdf) |
  |     |[Forecasting Demand](Week14.pdf)|
