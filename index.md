@@ -26,6 +26,12 @@ Communication Policy: Students are encouraged to contact me anytime via email or
  - Cohort from Fall 2023
     * [Students who shared their LinkedIn profiles](list-23-Fall.html)
 
+
+<!--- Digital Marketing  --->
+<!---  https://sites.google.com/view/boyaxu/research?authuser=0 --->
+<!--- Digital Marketing --->
+
+
   
 
 ## Lecture materials (slides) and code demonstrating the relevant methods
@@ -44,7 +50,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |          |  [Factor Investing](Week8.pdf)|  
 | **Midterm Exam (week 9)**                 
 | **Module 3 (weeks 10-12)**         |       **Marketing & Advertising - Focuses on marketing strategies, consumer behavior, and digital advertising**   |
-|                     |  [Marketing & Advertising: Traditional and Digital](Week9.pdf) |
+| Digital Marketing                     |  [Marketing & Advertising: Traditional and Digital](Week9.pdf) |
 |                    |[Implementing Integrated Digital Marketing](Week10.pdf)|
 |                       |  [Introduction to Predictive Marketing Across Channels](Week11.pdf)|
 | **Module 4 (weeks 13-15)**          | **Operation Management / Logistics- Discusses supply chain management, logistics, and operational efficiencies**          |        
