@@ -39,7 +39,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | Module                                                               |                   Description                                                         |
 |:-------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------|
 | **Module 1 (weeks 1-5)**         |      **Basics of Statistics and Regression - Covers statistical concepts and regression techniques**    |
-|                    | 	 [Linear Regression: Simple and Multiple Regression](Week1.pdf), [R and Rstudio 101](R101.pdf) |
+|                    | 	 [Linear Regression: Simple and Multiple Regression](Week1.pdf), [R and RStudio 101](R101.pdf) |
 |                     |    [Indicator Variables and Interaction Terms](Week2.pdf)
 |                           |	    [Nonlinear Transformations and Log Models](Week3.pdf)   |
 |                     	|	[Logistic Regression: Customer Default Example](Week4.pdf) |
