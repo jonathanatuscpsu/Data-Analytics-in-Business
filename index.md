@@ -15,17 +15,19 @@ Communication Policy: Students are encouraged to contact me anytime via email or
  - Current TA team
     * TAs who shared their LinkedIn profiles
  - Past TAs
-    * [TAs who shared their LinkedIn profiles](TA-list-Past.html)
+    * TAs who shared their LinkedIn profiles
      
  - Cohort from Fall 2024 (coming soon!)
-    * [Students who shared their LinkedIn profiles](list-24-Fall.html)
+    * Students who shared their LinkedIn profiles
  - Cohort from Summer 2024
-    * [Students who shared their LinkedIn profiles](list-24-Summer.html)
+    * Students who shared their LinkedIn profiles
  - Cohort from Spring 2024
-    * [Students who shared their LinkedIn profiles](list-24-Spring.html)
+    * Students who shared their LinkedIn profiles
  - Cohort from Fall 2023
-    * [Students who shared their LinkedIn profiles](list-23-Fall.html)
+    * Students who shared their LinkedIn profiles
 
+
+<!--- (TA-list-24-Fall.html)--->
 
 <!--- Digital Marketing  --->
 <!---  https://sites.google.com/view/boyaxu/research?authuser=0 --->
