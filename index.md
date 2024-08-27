@@ -18,7 +18,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
     * TAs who shared their LinkedIn profiles
      
  - Cohort from Fall 2024 (coming soon!)
-    * Students who shared their LinkedIn profiles
+    *  **Students who shared their LinkedIn profiles**
  - Cohort from Summer 2024
     * Students who shared their LinkedIn profiles
  - Cohort from Spring 2024
