@@ -45,7 +45,7 @@ Students will learn through practical application, using business analytics algo
 |                     |    [Indicator Variables and Interaction Terms](Data-Analytics-in-Business-(8-29-24).pdf)
 |                           |	[Nonlinear Transformations and Log Models](Data-Analytics-in-Business-(9-5-24).pdf) |
 |                     	|	[Logistic Regression: Customer Default Example](Data-Analytics-in-Business-(9-12-24).pdf) |
-|  See Beyond Correlation                |	  Treatment Effect, Randomized Controlled Experiments, and Natural Experiments|
+|  See Beyond Correlation                |	  [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](Data-Analytics-in-Business-(9-19-24).pdf)|
 | **Module 2 (weeks 6-8)**         |    **Finance & Investments- Explores financial markets, investment strategies, and risk management**      |
 |                        |  Introduction, and Measuring Risk and Return
 |                        | Measuring Risk Adjusted Performance
