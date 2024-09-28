@@ -47,7 +47,7 @@ Students will learn through practical application, using business analytics algo
 |                     	|	[Logistic Regression: Customer Default Example](Data-Analytics-in-Business-(9-12-24).pdf) |
 |  See Beyond Correlation                |	  [Treatment Effect, Randomized Controlled Experiments, and Natural Experiments](Data-Analytics-in-Business-(9-19-24).pdf)|
 | **Module 2 (weeks 6-8)**         |    **Finance & Investments- Explores financial markets, investment strategies, and risk management**      |
-|                        |  Introduction, and Measuring Risk and Return
+|                        |  [Introduction, and Measuring Risk and Return](Data-Analytics-in-Business-(9-26-24).pdf)
 |                        | Measuring Risk Adjusted Performance
 |          |  Factor Investing|  
 | **Midterm Exam (week 9)**                 
