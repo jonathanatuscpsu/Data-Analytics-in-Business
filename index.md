@@ -17,7 +17,7 @@ Students will learn through practical application, using business analytics algo
  <!---   * TAs who shared their LinkedIn profiles--->
  
 <!--- - **Past TAs**--->
-    * TAs who shared their LinkedIn profiles--->
+ <!---   * TAs who shared their LinkedIn profiles--->
      
 
 <!---  - **Cohort from Fall 2024 (coming soon!)**--->
@@ -27,10 +27,10 @@ Students will learn through practical application, using business analytics algo
  <!---   * Students who shared their LinkedIn profiles--->
  
 <!--- - **Cohort from Spring 2024**--->
-  <!---  * Students who shared their LinkedIn profiles--->
+ <!---  * Students who shared their LinkedIn profiles--->
 
 <!---  - **Cohort from Fall 2023**--->
- <!---   * Students who shared their LinkedIn profiles--->
+<!---   * Students who shared their LinkedIn profiles--->
 
 
 <!--- (TA-list-24-Fall.html)--->
