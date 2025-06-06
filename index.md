@@ -65,5 +65,5 @@ Students will learn through practical application, using business analytics algo
 |                    | Introduction and Managing Queues|
  |  |  Statistical Process Control |
  |     |Forecasting Demand|
-  |    |Inventory Management]|
+  |    |Inventory Management|
   | **Final Exam (week 16)**          |
