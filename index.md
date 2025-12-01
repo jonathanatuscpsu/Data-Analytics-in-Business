@@ -7,7 +7,7 @@ Students will learn through practical application, using business analytics algo
 
 
 ## Class Information
-* Instructor: Zhaohu (Jonathan) Fan, Ph.D.
+* Instructor: [Zhaohu (Jonathan) Fan](https://www.scheller.gatech.edu/directory/faculty/fan/index.html), Ph.D.
 * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
 * Email: jonathan.fan@scheller.gatech.edu
 * Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
