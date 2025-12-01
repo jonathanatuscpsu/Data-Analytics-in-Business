@@ -67,3 +67,7 @@ Students will learn through practical application, using business analytics algo
  |     |Forecasting Demand|
   |    |Inventory Management|
   | **Final Exam (week 16)**          |
+
+---
+
+*Go Jackets! 🐝*
